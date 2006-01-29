@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Net-AudioScrobbler.t
+lib/Net/AudioScrobbler.pm
+examples/scrobbler.pl
